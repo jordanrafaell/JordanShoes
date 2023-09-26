@@ -1,0 +1,27 @@
+/* Importes Styles */
+@import './Components/Globais.css';
+@import './Components/header.css';
+@import './Components/main.css';
+
+/* Import Fonte de Texto */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;1,500;1,600&display=swap');
+
+
+/* Importe de Cores */
+:root{
+    --cor-cb_pe: #00AEFF;
+
+    --cor-destaque-black: #181818;
+
+    --cor-cinza:  #474747;
+
+    --cor-white: #F9F9F9;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;   
+    font-family: "Montserrat", "sans-serif";
+}
