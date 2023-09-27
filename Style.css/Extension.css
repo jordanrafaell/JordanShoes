@@ -2,6 +2,7 @@
 @import './Components/Globais.css';
 @import './Components/header.css';
 @import './Components/main.css';
+@import './Components/mobile.css';
 
 /* Import Fonte de Texto */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;1,500;1,600&display=swap');

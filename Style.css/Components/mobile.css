@@ -1,0 +1,29 @@
+@media (max-width: 800px) and (min-width: 200px){
+    .desconto, footer{
+        color: aliceblue;
+        font-size: 18px;
+        font-style: italic;
+        font-weight: 600;
+        background: var(--cor-destaque-black);
+    }
+    
+    .text_title{
+        margin: 0 auto;
+        margin-left: 15px;
+        width: auto;
+    }
+
+    .text_main p {
+        color: black;
+        font-weight: 600;
+        font-weight: bolder;
+    }
+
+    .cards{
+        width: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}

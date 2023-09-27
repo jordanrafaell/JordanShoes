@@ -5,6 +5,10 @@
     font-family: "Montserrat", "sans-serif";
 }
 
+body{
+    background: var(--cor-white);
+}
+
 p{
     font-family: "Montserrat", "sans-serif";
     font-weight: 500;
