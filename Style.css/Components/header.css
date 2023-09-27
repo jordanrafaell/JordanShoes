@@ -24,7 +24,7 @@ header{
 .fundo_img {
     width: 100%;
     min-height: 500px;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://github.com/jordanrafaell/Portfolio.github.io/assets/61181764/c1f2e64b-f879-4f73-a217-917f54dcaf26);
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/images/wallpaper.jpeg);
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
