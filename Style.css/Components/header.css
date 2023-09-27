@@ -1,0 +1,47 @@
+header{
+    width: auto;
+}
+.desconto {
+    font-size: 16px;
+}
+
+.Name_pg {
+    background: var(--cor-white);
+    height: 60px;
+    font-size: 24px;
+}
+
+.fundo_img {
+    width: 100%;
+    min-height: 500px;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/images/wallpaper.jpeg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+}
+
+.text_title {
+    width: 460px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: var(--cor-white);
+    margin-left: 120px;
+}
+
+.text_title h2{
+    width: auto;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 39px;
+}
+
+.text_title p{
+    width: auto;
+    margin-top: 20px;
+    font-size: 22px;
+    line-height: 30.31px;
+    font-style: normal;
+}
