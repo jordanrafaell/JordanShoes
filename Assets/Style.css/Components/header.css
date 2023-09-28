@@ -24,7 +24,7 @@
 .fundo_img {
     width: 100%;
     min-height: 500px;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/Assets/img/wallpaper.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://github.com/jordanrafaell/JordanShoes/assets/61181764/df6cb8c8-10ae-4d76-9737-8e290b08e280);
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
