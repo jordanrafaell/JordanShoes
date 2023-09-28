@@ -1,3 +1,7 @@
+.header{
+    width: 100%;
+    height: 120px;
+}
 
 .desconto,
 .Name_pg{
@@ -20,7 +24,7 @@
 .fundo_img {
     width: 100%;
     min-height: 500px;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/images/wallpaper.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/images/wall.jpg);
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
