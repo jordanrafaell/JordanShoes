@@ -9,6 +9,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    font-family: cursive;
 }
 .desconto {
     font-size: 16px;
