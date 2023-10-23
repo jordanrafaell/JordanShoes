@@ -2,7 +2,7 @@
 
 ## 📃 Sobre
 Aplicação: <br>
-<https://jordanrafaell.github.io/jordanshoes/>
+<https://jordanrafaell.github.io/JordanShoes/>
 
 JordanShoes é o segundo de uma série de desafios propostos pelo @iuricode. Este site seguiu as especificações da seguinte prototipação: <br>
 [Figma](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=1883%3A2)
